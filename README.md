@@ -14,10 +14,7 @@ This is a simple Node.js application that generates a README file based on user 
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [License](#license)
+
 - [Questions](#questions)
 
 ## Installation
@@ -43,19 +40,7 @@ After installing the necessary packages, you can run the application by executin
 node index.js
 Follow the prompts to enter information about your project. The application will generate a README.md file based on your input.
 
-Contributing
-If you would like to contribute to this project, please follow these guidelines:
-
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Make your changes and commit them.
-Push your changes to your fork.
-Submit a pull request to the original repository.
-Tests
-Describe any tests you have written for this application and how to run them.
-
-License
-This project is licensed under the MIT License.
+And Viola! You have successfully created a very professional looking readme.md document
 
 Questions
 If you have any questions or need further assistance with this project, please feel free to reach out to me:
