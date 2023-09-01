@@ -26,7 +26,7 @@ To install and use this application, follow these steps:
 
 1. Clone this repository to your local machine.
 
-   git clone [https://github.com/yourusername/your-repo.git](https://github.com/trackstarr/Professional-README-Generator)
+   git clone (https://github.com/trackstarr/Professional-README-Generator)
 Navigate to the project's directory.
 
 
