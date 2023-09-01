@@ -26,7 +26,6 @@ To install and use this application, follow these steps:
 
 1. Clone this repository to your local machine.
 
-   ```bash
    git clone [https://github.com/yourusername/your-repo.git](https://github.com/trackstarr/Professional-README-Generator)
 Navigate to the project's directory.
 
@@ -41,7 +40,6 @@ Usage
 After installing the necessary packages, you can run the application by executing:
 
 
-Copy code
 node index.js
 Follow the prompts to enter information about your project. The application will generate a README.md file based on your input.
 
