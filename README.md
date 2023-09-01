@@ -14,7 +14,7 @@ This is a simple Node.js application that generates a README file based on user 
 ## Table of Contents
 
 - [Installation](#installation)
-
+- [Usage](#usage)
 - [Questions](#questions)
 
 ## Installation
@@ -28,16 +28,14 @@ Navigate to the project's directory.
 
 
 cd your-repo
-Install the required npm packages by running:
+
+Install the required npm packages by running:npm install
 
 
-
-npm install
-Usage
-After installing the necessary packages, you can run the application by executing:
+## Usage
+After installing the necessary packages, you can run the application by executing:node index.js
 
 
-node index.js
 Follow the prompts to enter information about your project. The application will generate a README.md file based on your input.
 
 And Viola! You have successfully created a very professional looking readme.md document
