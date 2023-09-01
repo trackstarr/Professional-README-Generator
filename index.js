@@ -1,7 +1,8 @@
-// TODO: Include packages needed for this application
+//Included packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs');
-// TODO: Create an array of questions for user input
+
+//Created an array of questions for user input
 const questions = [
   {
     type: 'input',
@@ -63,14 +64,14 @@ const licenseBadges = {
   'Apache License 2.0': '[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)',
 };
 
-// TODO: Create a function to write README file
+// Created a function to write README file
 function writeToFile(fileName, data) {
   fs.writeFile(fileName, data, (err) =>
     err ? console.error(err) : console.log('README.md file created!')
   );
 }
 
-// TODO: Create a function to initialize app
+//Created a function to initialize app
 function init() {
   inquirer.prompt(questions).then((answers) => {
     const licenseBadge = licenseBadges[answers.license] || '';
@@ -82,7 +83,7 @@ ${licenseBadge}  <!-- Added license badge -->
 
 ## Description
 ${answers.description}
-
+//Navigation Table of Contents
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
