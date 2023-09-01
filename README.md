@@ -42,7 +42,7 @@ Follow the prompts to enter information about your project. The application will
 
 And Viola! You have successfully created a very professional looking readme.md document
 
-Questions
+## Questions
 If you have any questions or need further assistance with this project, please feel free to reach out to me:
 
 GitHub: [trackstarr](https://github.com/trackstarr)
