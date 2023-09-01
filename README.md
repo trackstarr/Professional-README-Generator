@@ -22,21 +22,20 @@ To install and use this application, follow these steps:
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone [https://github.com/yourusername/your-repo.git](https://github.com/trackstarr/Professional-README-Generator)
 Navigate to the project's directory.
 
-bash
-Copy code
+
 cd your-repo
 Install the required npm packages by running:
 
 
-Copy code
+
 npm install
 Usage
 After installing the necessary packages, you can run the application by executing:
 
-bash
+
 Copy code
 node index.js
 Follow the prompts to enter information about your project. The application will generate a README.md file based on your input.
@@ -58,5 +57,5 @@ This project is licensed under the MIT License.
 Questions
 If you have any questions or need further assistance with this project, please feel free to reach out to me:
 
-GitHub: YourGitHubUsername
-Email: YourEmail@example.com
+GitHub: trackstarr
+Email: peltierjames@gmail.com
